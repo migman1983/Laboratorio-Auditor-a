@@ -1,0 +1,27 @@
+Para el desarrollo de esta práctica se debe:
+
+1. Instalar Virtual Box
+2. Instalación de 2 Máquinas virtuales Windows 7 64 bits
+3. Instalación de Máquina Virtual Kali Linux Distribución 2017-1
+
+Recomendaciones para la instalación de máquinas:
+
+Ojo -> Para la configuración se debe tener en cuenta la siguiente:
+ a) El orden de arranque de los sistemas debe encontrarse de primero Disco Duro
+ b) Tener en cuenta la memoria que se le va a asignar a la maquina virtual
+ c) en el apartado de red, se debe seleccionar la opción Habilitar adaptador de red
+    y este debe estar conectado en adaptador puente
+    
+    La configuración de avanzada en la opción de modo promiscuo se debe seleccionar 
+    la opción permitir todo
+ 
+
+Instalación de Kali Linux: Seguir los pasos que indica el siguiente enlace
+                            https://www.youtube.com/watch?v=YtiYVHYYW_s
+                           Antes de ejecutar la máquina aplicarle las recomendaciones con respecto a la 
+                           configuración 
+Instalación de Windows 7:  Seguir los pasos que indica el siguiente enlace
+                            https://www.youtube.com/watch?v=B5I6njskHHA&t=189s 
+                           Antes de ejecutar la máquina aplicarle las recomendaciones con respecto a la 
+                           configuración 
+
